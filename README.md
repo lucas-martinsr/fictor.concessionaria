@@ -9,7 +9,7 @@ Analisar o desempenho de vendas, produtos e vendedores da empresa, criando um ba
 
 ---
 
-## 🗂 Estrutura do Projeto
+## Estrutura do Projeto
 **/sql** → contém o script de criação do banco e inserção de dados. 
 **/powerbi** → contém o dashboard `Fictor Concessionária.pbix`  
 
